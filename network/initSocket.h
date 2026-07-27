@@ -8,7 +8,7 @@
 #include <unistd.h>
 
 #ifndef CLIENT_SIZE
-#define CLIENTS_SIZE 10
+#define CLIENTS_SIZE 50
 #endif
 
 static inline int initTcp(uint16_t PORT) {

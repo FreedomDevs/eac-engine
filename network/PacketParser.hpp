@@ -1,3 +1,5 @@
+#pragma once
+
 #include "PacketHeader.hpp"
 #include "PacketReader.hpp"
 #include <cstdint>
